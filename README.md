@@ -40,3 +40,6 @@ Notre Dame              |Washington University in St. Louis
 
 
 
+
+
+ [This data is mirrored and can be queried via API here](https://www.exversion.com/data/view/07B3UJ5AN2JJ52S)
