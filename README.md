@@ -1,5 +1,5 @@
 ## NY Times Coverage Research
-[http://publiceditor.blogs.nytimes.com/2014/08/27/a-teenagers-study-suggests-public-colleges-get-less-times-attention/](http://publiceditor.blogs.nytimes.com/2014/08/27/a-teenagers-study-suggests-public-colleges-get-less-times-attention/)
+Published 8/27/14 [https://nyti.ms/2nwxFT5](https://nyti.ms/2nwxFT5)
 
 ### Intro
 Analyzing how universities are covered in the New York Times relative to each other is difficult due to genuine differences in quality and newsworthiness, but the [U.S. News college rankings](http://colleges.usnews.rankingsandreviews.com/best-colleges/rankings/national-universities/data) can be used to account for these differences. When analyzed in conjunction with several other metrics including size, proximity to New York and political reputation, it can be shown that public schools are overall covered less than equivalent private schools.
